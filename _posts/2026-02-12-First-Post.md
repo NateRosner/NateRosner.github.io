@@ -4,7 +4,7 @@ title: Nate Rosner's First Post
 subtitle: Click to Learn More!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [first post]
 comments: true
 mathjax: true
 author: Nate Rosner
