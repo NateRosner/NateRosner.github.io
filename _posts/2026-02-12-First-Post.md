@@ -19,4 +19,4 @@ This is my first post on my website! My name is Nate Rosner. I am currently a se
 
 How about a picture to see if it works?
 
-![baseballfootball](https://beautifuljekyll.com/assets/img/baseballfootball.jpg)
+![baseballfootball](https://naterosner.github.io/assets/img/baseballfootball.jpg)
