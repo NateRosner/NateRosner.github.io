@@ -18,6 +18,6 @@ This is my first post on my website! My name is Nate Rosner. I am currently a se
 
 [This is a link to my baseball schedule to see if it works](https://ephsports.williams.edu/sports/baseball)
 
-How about a picture?
+How about a picture to see if it works?
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![williamsstickers](https://beautifuljekyll.com/assets/img/williamsstickers.jpg)
