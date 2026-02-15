@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nate Rosner's First Post
-subtitle: Click to About Me!
+subtitle: Click to Learn More About Me!
 cover-img: assets/img/williamspicture.jpg
 thumbnail-img: /assets/img/williamscsci.png
 gh-repo: daattali/beautiful-jekyll
