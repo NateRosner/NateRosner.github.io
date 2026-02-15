@@ -2,7 +2,7 @@
 layout: post
 title: Nate Rosner's First Post
 subtitle: Click to Learn More!
-cover-img: /assets/img/path.jpg
+cover-img: assets/img/williamspicture.jpg
 thumbnail-img: /assets/img/williamscsci.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
