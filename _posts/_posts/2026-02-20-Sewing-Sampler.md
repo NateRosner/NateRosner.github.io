@@ -1,1 +1,22 @@
+---
+layout: post
+title: Nate Rosner's Sewing Sampler
+subtitle: My First Sewing Experience
+thumbnail-img: /assets/img/williamscsci.png
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [sewing sampler]
+comments: true
+mathjax: true
+author: Nate Rosner
+---
 
+This is my sewing sampler assignment. I have included pictures of both the front and back of my sampler below. One trick I learned throughout this VERY long process for past me was to not view this as an assignment, but learning a hobby during my free time. I had initially viewed this assignment as something I had to do, and was getting very angry because I had 5 other assignments to do but was stuck on learning to sew. Once I viewed it as something I can do in my free time, it went much better!
+
+Sewing Sampler (Front)
+
+![sewingsamplerfront](https://naterosner.github.io/assets/img/sewingsamplerfront.HEIC)
+
+Sewing Sampler (Back)
+
+![sewingsamplerback](https://naterosner.github.io/assets/img/sewingsamplerback.HEIC)
