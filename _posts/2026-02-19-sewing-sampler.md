@@ -2,7 +2,6 @@
 layout: post
 title: Nate Rosner's Sewing Sampler
 subtitle: My First Sewing Experience
-thumbnail-img: /assets/img/williamscsci.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [sewing sampler]
