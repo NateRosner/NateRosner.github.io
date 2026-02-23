@@ -15,9 +15,9 @@ This is my sewing sampler assignment. I have included pictures of both the front
 
 Sewing Sampler (Front)
 
-![sewingsamplerfront](https://naterosner.github.io/assets/img/sewingsamplerfront.HEIC)
+![sewingsamplerfront](https://naterosner.github.io/assets/img/sewingsamplerfront.jpg)
 
 
 Sewing Sampler (Back)
 
-![sewingsamplerback](https://naterosner.github.io/assets/img/sewingsamplerback.HEIC)
+![sewingsamplerback](https://naterosner.github.io/assets/img/sewingsamplerback.jpg)
