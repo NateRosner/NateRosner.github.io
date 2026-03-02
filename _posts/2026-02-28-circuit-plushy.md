@@ -17,7 +17,7 @@ Plushy Paper Prototype:
 
 Alligator Prototyping:
 
-![
+![plushyalligator](https://naterosner.github.io/assets/img/plushyalligator.jpg)
 
 Front and Back Photo of Plushy:
 
