@@ -13,7 +13,7 @@ published: true
 
 Plushy Paper Prototype:
 
-![
+![plushypaper](https://naterosner.github.io/assets/img/plushypaper.jpg)
 
 Alligator Prototyping:
 
