@@ -11,7 +11,7 @@ author: Nate Rosner
 published: true
 ---
 
-Plushy Paper Prototype:
+Homemade Switches Paper Prototype:
 
 ![conductpaper](https://naterosner.github.io/assets/img/conductpaper.jpg)
 
@@ -19,7 +19,7 @@ Alligator Prototyping:
 
 ![conductalligator](https://naterosner.github.io/assets/img/conductalligator.jpg)
 
-Front and Back Photo of Plushy:
+Front and Back Photo of Homemade Switches:
 
   Front:
   ![conductfront](https://naterosner.github.io/assets/img/conductfront.jpg)
