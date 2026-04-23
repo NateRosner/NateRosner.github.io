@@ -10,4 +10,4 @@ author: Nate Rosner
 published: true
 ---
 
-![projectproposal](https://naterosner.github.io/assets/img/projectproposal.jpeg)
+![projectproposal](https://naterosner.github.io/assets/img/projectproposal.jpg)
